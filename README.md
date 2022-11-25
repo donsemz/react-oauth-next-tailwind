@@ -1,3 +1,17 @@
+# React Oauth Tailwind App
+A React Oauth app that uses Next.js and TailWindCSS. 
+
+## Project Description
+
+This project demonstrates the use of firebase Authentication in a Next.js project along with the TailwindCSS framework.
+
+## How to use this app.
+
+#### Make sure you have an account on firebase 
+#### Configure the Authentication Setting for OAuth with Google and Facebook. Then apply the settings to the app.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
