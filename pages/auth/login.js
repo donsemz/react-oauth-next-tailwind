@@ -48,7 +48,8 @@ export default function Login() {
     else{
         console.log("login page");
     }
-  }),[user])
+  }))
+
   return (
     <div className="shadow-xl mt-32 p-10 text-white-700 rounded-lg">
       <h2 className="text-3xl font-medium">Join Us Today</h2>
